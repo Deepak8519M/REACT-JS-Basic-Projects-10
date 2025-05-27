@@ -1,7 +1,12 @@
 import React from "react";
+import HiddenSearchBar from "./HiddenSearchBar";
 
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <HiddenSearchBar />
+    </div>
+  );
 }
 
 export default App;
