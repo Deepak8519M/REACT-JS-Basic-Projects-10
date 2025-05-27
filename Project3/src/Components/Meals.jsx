@@ -1,4 +1,6 @@
 import React from "react";
+import "../style.css";
+import { useStat } from "react";
 
 function Meals() {
   return (
