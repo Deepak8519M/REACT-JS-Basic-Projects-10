@@ -1,6 +1,5 @@
 import React from "react";
-import ToggleBackground from "./ToggleBackground";
-
+import ToggleBackground from "./Components/ToggleBackground";
 function App() {
   return (
     <div>
