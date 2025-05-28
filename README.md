@@ -1,4 +1,4 @@
-# 🚀 React Projects Collection
+# 🚀 `React Projects Collection`
 
 This repository showcases **10 beginner to intermediate-level projects** built using **React.js** and **CSS**. These projects are designed to strengthen core concepts in React such as components, state management, props, conditional rendering, events, and API integration — along with styling using plain CSS.
 
@@ -38,7 +38,7 @@ This repository showcases **10 beginner to intermediate-level projects** built u
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 `Tech Stack`
 
 - **Frontend:** React.js (Functional Components, Hooks)
 - **Styling:** Plain CSS
@@ -47,7 +47,7 @@ This repository showcases **10 beginner to intermediate-level projects** built u
 
 ---
 
-## 💡 Getting Started
+## 💡 `Getting Started`
 
 To run any project locally:
 
@@ -62,11 +62,12 @@ To run any project locally:
 4. Start the development server:
    ```npm start```
 
-🙌 Contributions
+# 🙌 `Contributions`
 Contributions, feedback, or ideas to improve or add more projects are welcome!
 
 
-📩 Contact
+## 📩 `Contact`:
+
 Created by [Deepak]
-📧 E-mail:  mallareddydeepak03@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/deepak-mallareddy-1b09b6274/
+📧 `E-mail`:  mallareddydeepak03@gmail.com
+🔗 `LinkedIn`: https://www.linkedin.com/in/deepak-mallareddy-1b09b6274/
