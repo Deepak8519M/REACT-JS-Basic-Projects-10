@@ -36,7 +36,7 @@ A minimal and elegant React.js project that displays a list of items with real-t
 
 ## 🙌 Credits
 
-- 🛠️ Built with React.js by [Your Name]
+- 🛠️ Built with React.js 
 
 ---
 
