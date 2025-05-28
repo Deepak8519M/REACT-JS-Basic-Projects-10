@@ -28,11 +28,11 @@ A clean, simple, and fully functional **Calculator App** built with **React.js**
 
 ## 💡 Possible Improvements
 
-- **Replace eval() with a safe math parser like math.js
+- Replace eval() with a safe math parser like math.js
 
-- **Add keyboard support for typing inputs
+- Add keyboard support for typing inputs
 
-- **Add support for parentheses and more complex expressions
+- Add support for parentheses and more complex expressions
 
-- **Add dark/light theme toggle
+- Add dark/light theme toggle
 
