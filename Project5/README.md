@@ -1,12 +1,35 @@
-# React + Vite
+# 🎨 Color Toggler
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight React.js application that toggles between light and dark themes with a single button click. This project demonstrates state management and dynamic inline styling in React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![Color Toggler Preview](./screenshot.png) <!-- Replace with your screenshot path -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Features
+
+- 🌗 Toggle between light and dark background
+- 🎨 Dynamically change text and button colors
+- 🧼 Clean UI with responsive design
+- ⚡ Fast, no-reload theme switching
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend Framework:** React.js (useState hook)
+- **Styling:** CSS + Inline Styles
+
+---
+
+## 💡 Enhancements to Try
+- Add smooth CSS transitions for color changes
+
+- Store theme preference in localStorage
+
+- Add system-theme detection (dark/light mode)
+
