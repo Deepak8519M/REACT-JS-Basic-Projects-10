@@ -1,12 +1,43 @@
-# React + Vite
+# 🔍 Search Icon Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal and elegant React.js project that displays a list of items with real-time search filtering. It helps users filter content based on keywords. This project introduces basic concepts like controlled components, filtering arrays, and handling user input in React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![Search Project Preview](./screenshot.png) <!-- Replace with your screenshot path -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Features
+
+- 🔎 Real-time search filter
+- 🖱️ Responsive and interactive UI
+- 🎯 Highlights core React concepts: state, filtering, input handling
+- 🧼 Simple and clean code
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend Framework:** React.js
+- **Styling:** CSS
+
+---
+
+## 💡 Enhancements to Try
+
+- Add a search icon inside the input field
+- Fetch items dynamically using an API
+- Add debounce for performance optimization
+
+---
+
+## 🙌 Credits
+
+- 🛠️ Built with React.js by [Your Name]
+
+---
+
+
