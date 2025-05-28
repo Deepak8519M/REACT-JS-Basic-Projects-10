@@ -29,11 +29,11 @@ A simple yet interactive **React.js application** that fetches and displays deli
 
 ## 💡 Improvements to Explore
 
-- **Add a search bar to find specific meals
+- Add a search bar to find specific meals
 
-- **Add meal category or area filter
+- Add meal category or area filter
 
-- **Display recipe instructions and ingredients
+- Display recipe instructions and ingredients
 
-- **Show a popup/modal on clicking a meal card
+- Show a popup/modal on clicking a meal card
 
