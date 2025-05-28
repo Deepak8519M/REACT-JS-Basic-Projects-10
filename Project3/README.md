@@ -1,12 +1,38 @@
-# React + Vite
+# 🧮 React Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, simple, and fully functional **Calculator App** built with **React.js** and **CSS**. It allows users to perform basic arithmetic operations and features a modern UI design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![Calculator Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Features
+
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+- 🟰 Real-time evaluation of expressions
+- 🧼 Clear/Reset functionality
+- 🎨 Stylish and responsive UI using pure CSS
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend Framework:** React.js (Hooks)
+- **Styling:** CSS (Flexbox + utility styles)
+
+---
+
+## 💡 Possible Improvements
+
+- **Replace eval() with a safe math parser like math.js
+
+- **Add keyboard support for typing inputs
+
+- **Add support for parentheses and more complex expressions
+
+- **Add dark/light theme toggle
+
