@@ -1,12 +1,39 @@
-# React + Vite
+# 🍽️ Meal API Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple yet interactive **React.js application** that fetches and displays delicious meal data from the [TheMealDB API](https://www.themealdb.com/). Each meal is presented in a card layout with its name, ID, and image.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![Meal API Preview](./screenshot.png) <!-- Replace with your actual image path -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Features
+
+- 🔄 Fetch data from an open REST API
+- 🖼️ Display meal name, image, and ID using cards
+- 🎨 Responsive and styled with CSS
+- ⚡ Fast rendering with React hooks
+
+---
+
+## 🔧 Tech Stack
+
+- **Framework:** React.js (useEffect, useState)
+- **API:** TheMealDB (https://www.themealdb.com/api/json/v1/1/search.php?s=)
+- **Styling:** CSS
+
+---
+
+## 💡 Improvements to Explore
+
+- **Add a search bar to find specific meals
+
+- **Add meal category or area filter
+
+- **Display recipe instructions and ingredients
+
+- **Show a popup/modal on clicking a meal card
+
