@@ -67,5 +67,7 @@ Contributions, feedback, or ideas to improve or add more projects are welcome!
 ## 📩 `Contact`:
 
 Created by [Deepak]
+
 📧 `E-mail`:  mallareddydeepak03@gmail.com
+
 🔗 `LinkedIn`: https://www.linkedin.com/in/deepak-mallareddy-1b09b6274/
