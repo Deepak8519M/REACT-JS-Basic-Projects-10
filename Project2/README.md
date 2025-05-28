@@ -29,11 +29,11 @@ A clean and minimal **To-Do App** built using **React.js** and **CSS**, designed
 
 ## 💡 Possible Improvements
 
-- **Add task edit functionality
+- Add task edit functionality
 
-- **Integrate with localStorage or an API
+- Integrate with localStorage or an API
 
-- **Add due dates or reminders
+- Add due dates or reminders
 
-- **Filter tasks (All, Active, Completed)
+- Filter tasks (All, Active, Completed)
 
