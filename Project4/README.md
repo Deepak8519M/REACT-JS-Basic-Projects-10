@@ -37,3 +37,8 @@ A simple yet interactive **React.js application** that fetches and displays deli
 
 - Show a popup/modal on clicking a meal card
 
+## 🙌 Credits
+
+- 🍽️ API from TheMealDB
+
+- 💻 Built with React.js by [Your Name]
