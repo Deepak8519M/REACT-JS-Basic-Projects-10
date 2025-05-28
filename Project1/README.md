@@ -1,12 +1,41 @@
-# React + Vite
+# ✅ Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and beginner-friendly **Counter App** built using **React.js** and **CSS**. This project demonstrates the core concept of **React state management** using `useState` and handling **events** like button clicks.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![Counter App Screenshot](./screenshot.png) <!-- Replace with actual screenshot if available -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Features
+
+- ✅ Increment the counter
+- 🔄 Decrement the counter
+- 🔁 Reset the counter to 0
+- 🎨 Styled with clean and minimal CSS
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend Framework:** React.js (Functional Components + Hooks)
+- **Styling:** Plain CSS
+
+---
+
+## ✨ Future Enhancements (Optional Ideas)
+
+- **Add a maximum or minimum limit
+
+- **Disable buttons when limits are reached
+
+- **Store the counter value in localStorage
+
+- **Add animations or sound effects
+
+## 🙌 Credits
+
+- Made with ❤️ using React.
