@@ -1,16 +1,16 @@
-# ✅ Counter App
+# ✅ `Counter App`
 
 A simple and beginner-friendly **Counter App** built using **React.js** and **CSS**. This project demonstrates the core concept of **React state management** using `useState` and handling **events** like button clicks.
 
 ---
 
-## 📸 Preview
+## 📸 `Preview`
 
 ![Counter App Screenshot](./screenshot.png) <!-- Replace with actual screenshot if available -->
 
 ---
 
-## 🧠 Features
+## 🧠 `Features`
 
 - ✅ Increment the counter
 - 🔄 Decrement the counter
@@ -19,14 +19,14 @@ A simple and beginner-friendly **Counter App** built using **React.js** and **CS
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 `Tech Stack`
 
 - **Frontend Framework:** React.js (Functional Components + Hooks)
 - **Styling:** Plain CSS
 
 ---
 
-## ✨ Future Enhancements (Optional Ideas)
+## ✨ `Future Enhancements (Optional Ideas)`
 
 - **Add a maximum or minimum limit
 
@@ -36,6 +36,6 @@ A simple and beginner-friendly **Counter App** built using **React.js** and **CS
 
 - **Add animations or sound effects
 
-## 🙌 Credits
+## 🙌 `Credits`
 
 - Made with ❤️ using React.
