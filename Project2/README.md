@@ -1,16 +1,16 @@
-# ✅ To-Do App
+# ✅ `To-Do App`
 
 A clean and minimal **To-Do App** built using **React.js** and **CSS**, designed to help users manage daily tasks efficiently. This project is a great example of how to manage dynamic lists and conditional rendering using React Hooks.
 
 ---
 
-## 📸 Preview
+## 📸 `Preview`
 
 ![To-Do App Screenshot](./screenshot.png) <!-- Add screenshot image if available -->
 
 ---
 
-## 🧠 Features
+## 🧠 `Features`
 
 - ➕ Add new tasks
 - ✅ Mark tasks as completed
@@ -20,14 +20,14 @@ A clean and minimal **To-Do App** built using **React.js** and **CSS**, designed
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 `Tech Stack`
 
 - **Frontend Framework:** React.js (Functional Components + Hooks)
 - **Styling:** CSS (Flexbox, grid , media queries)
 
 ---
 
-## 💡 Possible Improvements
+## 💡 `Possible Improvements`
 
 - Add task edit functionality
 
