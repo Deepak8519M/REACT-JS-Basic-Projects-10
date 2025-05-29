@@ -4,7 +4,7 @@ This repository showcases **10 beginner to intermediate-level projects** built u
 
 ---
 
-## 📋 Projects Included
+## 📋 `Projects Included`
 
 1. ### ✅ `Counter App`
    A simple app to increment, decrement, and reset a counter. Demonstrates `useState` and basic event handling.
