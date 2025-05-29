@@ -1,16 +1,16 @@
-# 🧮 React Calculator App
+# 🧮 `React Calculator App`
 
 A clean, simple, and fully functional **Calculator App** built with **React.js** and **CSS**. It allows users to perform basic arithmetic operations and features a modern UI design.
 
 ---
 
-## 📸 Preview
+## 📸 `Preview`
 
 ![Calculator Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
 
 ---
 
-## 🧠 Features
+## 🧠 `Features`
 
 - ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
 - 🟰 Real-time evaluation of expressions
@@ -19,14 +19,14 @@ A clean, simple, and fully functional **Calculator App** built with **React.js**
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 `Tech Stack`
 
 - **Frontend Framework:** React.js (Hooks)
-- **Styling:** CSS (Flexbox + utility styles)
+- **Styling:** CSS `(Flexbox + utility styles)`
 
 ---
 
-## 💡 Possible Improvements
+## 💡 `Possible Improvements`
 
 - Replace eval() with a safe math parser like math.js
 
