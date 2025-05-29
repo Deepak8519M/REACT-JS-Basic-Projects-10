@@ -41,4 +41,4 @@ A simple yet interactive **React.js application** that fetches and displays deli
 
 - 🍽️ API from TheMealDB
 
-- 💻 Built with React.js by [Your Name]
+
