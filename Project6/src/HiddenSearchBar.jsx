@@ -15,6 +15,18 @@ function HiddenSearchBar() {
       setBgColor("white");
     }
   };
+
+  // const handleClick = (e) => {
+  //   setBgColor("#1a1a1a");
+
+  //   if (e.target.className === "container") {
+  //     setTimeout(() => {
+  //       setShowInput(false);
+  //       setBgColor("white");
+  //     }, 300); // delay so we see dark color briefly
+  //   }
+  // };
+
   return (
     <section
       className="container"

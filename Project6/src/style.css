@@ -11,6 +11,8 @@ section {
   justify-content: center;
   align-items: center;
   transition: 0.7s ease;
+
+  width: 100%;
 }
 
 button {
