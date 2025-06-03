@@ -1,8 +1,3 @@
-Sure! Here's the full **README.md** content for your **Project 7 – Testimonials Section** that you can directly copy and paste into your project folder as `README.md`:
-
----
-
-```markdown
 # 💬 Testimonials Project
 
 A clean and functional **React.js project** that displays user **testimonials** with navigable controls. Users can switch between testimonials using **Prev/Next buttons**, showcasing dynamic content rendering in React using **state** and **arrays**.
@@ -46,6 +41,3 @@ A clean and functional **React.js project** that displays user **testimonials** 
 - 💡 Inspired by common **testimonial carousels** seen in modern UI designs
 
 ---
-```
-
-Let me know when you're ready for the next one!
