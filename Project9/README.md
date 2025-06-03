@@ -6,7 +6,7 @@ A responsive and interactive **form validation** project built using **React.js*
 
 ## 📸 Preview
 
-![Form Validation Preview](./screenshot.png) <!-- Replace with your actual screenshot -->
+![Form Validation Preview](./src/assets/reactJsForm9thHuxn.png) <!-- Replace with your actual screenshot -->
 
 ---
 
@@ -31,23 +31,23 @@ A responsive and interactive **form validation** project built using **React.js*
 
 ## 🔧 Tech Stack
 
-- **Frontend Framework:** React.js  
+- **Frontend Framework:** React.js
 - **Styling:** CSS
 
 ---
 
 ## 💡 Enhancements to Try
 
-- Add **regex-based email validation**  
-- Show **password strength indicator**  
-- Use **Form Libraries** like `Formik` or `React Hook Form`  
+- Add **regex-based email validation**
+- Show **password strength indicator**
+- Use **Form Libraries** like `Formik` or `React Hook Form`
 - Add **success message** or redirect on valid submission
 
 ---
 
 ## 🙌 Credits
 
-- 🛠️ Built using functional React components and state management  
+- 🛠️ Built using functional React components and state management
 - 💡 Great for learning **form handling** and **UX feedback patterns**
 
 ---
