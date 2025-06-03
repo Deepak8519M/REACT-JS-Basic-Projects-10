@@ -6,7 +6,7 @@ A minimal and elegant React.js project that displays a list of items with real-t
 
 ## 📸 `Preview`
 
-![Search Project Preview](./screenshot.png) <!-- Replace with your screenshot path -->
+![Search Project Preview](./reactJshiddenSearch6Huxn.png) <!-- Replace with your screenshot path -->
 
 ---
 
@@ -36,8 +36,6 @@ A minimal and elegant React.js project that displays a list of items with real-t
 
 ## 🙌 `Credits`
 
-- 🛠️ Built with React.js 
+- 🛠️ Built with React.js
 
 ---
-
-

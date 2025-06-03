@@ -6,7 +6,7 @@ A clean and functional **React.js project** that displays user **testimonials** 
 
 ## 📸 Preview
 
-![Testimonials Preview](./screenshot.png) <!-- Replace with actual screenshot path -->
+![Testimonials Preview](./reactJsTestimonials7Huxn.png) <!-- Replace with actual screenshot path -->
 
 ---
 
@@ -21,23 +21,23 @@ A clean and functional **React.js project** that displays user **testimonials** 
 
 ## 🔧 Tech Stack
 
-- **Frontend Framework:** React.js  
+- **Frontend Framework:** React.js
 - **Styling:** CSS
 
 ---
 
 ## 💡 Enhancements to Try
 
-- Add **smooth transitions/animations** between testimonials  
-- Include **profile images** and **ratings** for better UI  
-- Use **auto-play functionality** (testimonials switch automatically after a few seconds)  
+- Add **smooth transitions/animations** between testimonials
+- Include **profile images** and **ratings** for better UI
+- Use **auto-play functionality** (testimonials switch automatically after a few seconds)
 - Fetch testimonials from an external **API** instead of hardcoded array
 
 ---
 
 ## 🙌 Credits
 
-- 🛠️ Built with React.js & CSS  
+- 🛠️ Built with React.js & CSS
 - 💡 Inspired by common **testimonial carousels** seen in modern UI designs
 
 ---

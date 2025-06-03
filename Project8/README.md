@@ -6,7 +6,7 @@ A user-friendly **React.js accordion** that allows toggling of content sections.
 
 ## 📸 Preview
 
-![Accordion Preview](./screenshot.png) <!-- Replace with actual screenshot path -->
+![Accordion Preview](./reactJsAccordion8Huxn.png) <!-- Replace with actual screenshot path -->
 
 ---
 
@@ -21,23 +21,23 @@ A user-friendly **React.js accordion** that allows toggling of content sections.
 
 ## 🔧 Tech Stack
 
-- **Frontend Framework:** React.js  
+- **Frontend Framework:** React.js
 - **Styling:** CSS
 
 ---
 
 ## 💡 Enhancements to Try
 
-- Add **animations** for smooth expanding and collapsing  
-- Support **multiple open sections** simultaneously  
-- Fetch accordion content from a remote **API or JSON file**  
+- Add **animations** for smooth expanding and collapsing
+- Support **multiple open sections** simultaneously
+- Fetch accordion content from a remote **API or JSON file**
 - Add **icons** to indicate open/close state
 
 ---
 
 ## 🙌 Credits
 
-- 🛠️ Built with React.js and CSS  
+- 🛠️ Built with React.js and CSS
 - 🔗 Great for FAQ sections, feature lists, or grouped content
 
 ---
