@@ -6,7 +6,8 @@ A lightweight React.js application that toggles between light and dark themes wi
 
 ## 📸 `Preview`
 
-![Color Toggler Preview](./screenshot.png) <!-- Replace with your screenshot path -->
+![Color Toggler Preview](./reacWhite5Huxn.png) <!-- Replace with your screenshot path -->
+![Color Toggler Preview](./reactDark5Huxn.png) <!-- Replace with your screenshot path -->
 
 ---
 
@@ -27,9 +28,9 @@ A lightweight React.js application that toggles between light and dark themes wi
 ---
 
 ## 💡 Enhancements to Try
+
 - Add `smooth CSS transitions` for color changes
 
 - Store theme preference in `localStorage`
 
 - Add system-theme detection `(dark/light mode)`
-

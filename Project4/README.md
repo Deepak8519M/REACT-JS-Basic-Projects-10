@@ -6,7 +6,7 @@ A simple yet interactive **React.js application** that fetches and displays deli
 
 ## 📸 `Preview`
 
-![Meal API Preview](./screenshot.png) <!-- Replace with your actual image path -->
+![Meal API Preview](./reactJsCalc4Huxn.png) <!-- Replace with your actual image path -->
 
 ---
 
@@ -40,5 +40,3 @@ A simple yet interactive **React.js application** that fetches and displays deli
 ## 🙌 `Credits`
 
 - 🍽️ API from TheMealDB
-
-

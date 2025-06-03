@@ -6,7 +6,7 @@ A clean, simple, and fully functional **Calculator App** built with **React.js**
 
 ## 📸 `Preview`
 
-![Calculator Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
+![Calculator Screenshot](./reactJsFetch3Huxn.png) <!-- Add a screenshot if available -->
 
 ---
 
@@ -35,4 +35,3 @@ A clean, simple, and fully functional **Calculator App** built with **React.js**
 - Add support for parentheses and more complex expressions
 
 - Add dark/light theme toggle
-

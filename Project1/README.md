@@ -6,7 +6,7 @@ A simple and beginner-friendly **Counter App** built using **React.js** and **CS
 
 ## 📸 `Preview`
 
-![Counter App Screenshot](./screenshot.png) <!-- Replace with actual screenshot if available -->
+![Counter App Screenshot](./reactJsCounter1Huxn.png) <!-- Replace with actual screenshot if available -->
 
 ---
 
@@ -28,13 +28,13 @@ A simple and beginner-friendly **Counter App** built using **React.js** and **CS
 
 ## ✨ `Future Enhancements (Optional Ideas)`
 
-- **Add a maximum or minimum limit
+- \*\*Add a maximum or minimum limit
 
-- **Disable buttons when limits are reached
+- \*\*Disable buttons when limits are reached
 
-- **Store the counter value in localStorage
+- \*\*Store the counter value in localStorage
 
-- **Add animations or sound effects
+- \*\*Add animations or sound effects
 
 ## 🙌 `Credits`
 

@@ -6,7 +6,7 @@ A clean and minimal **To-Do App** built using **React.js** and **CSS**, designed
 
 ## 📸 `Preview`
 
-![To-Do App Screenshot](./screenshot.png) <!-- Add screenshot image if available -->
+![To-Do App Screenshot](./reactJsTodo2Huxn.png) <!-- Add screenshot image if available -->
 
 ---
 
@@ -36,4 +36,3 @@ A clean and minimal **To-Do App** built using **React.js** and **CSS**, designed
 - Add due dates or reminders
 
 - Filter tasks (All, Active, Completed)
-
