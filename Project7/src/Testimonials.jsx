@@ -18,6 +18,34 @@ function Testimonials() {
       quote: "This product has completely changed my life!",
       author: "Bob Johnson",
     },
+    {
+      quote: "Exceptional service and top-notch quality!",
+      author: "Emily Clark",
+    },
+    {
+      quote: "A must-have tool for every professional.",
+      author: "Michael Thompson",
+    },
+    {
+      quote: "Customer support was responsive and helpful.",
+      author: "Samantha Lee",
+    },
+    {
+      quote: "I was amazed by the performance and results.",
+      author: "David Kim",
+    },
+    {
+      quote: "Simple, efficient, and effective!",
+      author: "Priya Sharma",
+    },
+    {
+      quote: "Great value for the price. Highly satisfied!",
+      author: "Carlos Martinez",
+    },
+    {
+      quote: "User-friendly interface and smooth functionality.",
+      author: "Nina Patel",
+    },
   ];
 
   const handlePrevClick = () => {
