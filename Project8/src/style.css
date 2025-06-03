@@ -29,6 +29,7 @@ body {
   display: flex;
   justify-content: space-between;
   width: 40rem;
+  /* background: red; */
 }
 
 .card-title {
@@ -43,7 +44,7 @@ body {
 }
 
 p.card-info {
-  width: 30rem;
+  width: 40rem;
   padding: 20px 0;
   line-height: 1.3;
 }
