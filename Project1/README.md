@@ -12,10 +12,10 @@ A simple and beginner-friendly **Counter App** built using **React.js** and **CS
 
 ## 🧠 `Features`
 
-- ✅ Increment the counter
-- 🔄 Decrement the counter
-- 🔁 Reset the counter to 0
-- 🎨 Styled with clean and minimal CSS
+- ✅ `Increment` the counter
+- 🔄 `Decrement`the counter
+- 🔁 `Reset` the counter to 0
+- 🎨 `Styled` with `clean` and `minimal CSS`
 
 ---
 
@@ -28,13 +28,13 @@ A simple and beginner-friendly **Counter App** built using **React.js** and **CS
 
 ## ✨ `Future Enhancements (Optional Ideas)`
 
-- \*\*Add a maximum or minimum limit
+- **Add a `maximum` or `minimum limit`
 
-- \*\*Disable buttons when limits are reached
+- **Disable `buttons` when `limits` are reached
 
-- \*\*Store the counter value in localStorage
+- **Store the `counter value` in `localStorage`
 
-- \*\*Add animations or sound effects
+- **Add `animations` or `sound effects`
 
 ## 🙌 `Credits`
 
