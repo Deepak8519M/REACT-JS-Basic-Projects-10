@@ -1,6 +1,6 @@
 # ✅ `To-Do App`
 
-A clean and minimal **To-Do App** built using **React.js** and **CSS**, designed to help users manage daily tasks efficiently. This project is a great example of how to manage dynamic lists and conditional rendering using React Hooks.
+A clean and minimal **To-Do App** built using **React.js** and **CSS**, designed to help users manage daily tasks efficiently. This project is a great example of how to manage dynamic lists and `conditional rendering` using React Hooks.
 
 ---
 
@@ -12,11 +12,11 @@ A clean and minimal **To-Do App** built using **React.js** and **CSS**, designed
 
 ## 🧠 `Features`
 
-- ➕ Add new tasks
-- ✅ Mark tasks as completed
-- ❌ Delete tasks
-- ♻️ Dynamic rendering of task list
-- 🎨 Simple and responsive CSS styling
+- ➕ Add `new tasks`
+- ✅ `Mark tasks` as `completed`
+- ❌ `Delete tasks`
+- ♻️ `Dynamic rendering` of task list
+- 🎨 Simple and` responsive CSS` styling
 
 ---
 
@@ -29,10 +29,10 @@ A clean and minimal **To-Do App** built using **React.js** and **CSS**, designed
 
 ## 💡 `Possible Improvements`
 
-- Add task edit functionality
+- Add `task edit` functionality
 
-- Integrate with localStorage or an API
+- `Integrate` with `localStorage`or an `API`
 
-- Add due dates or reminders
+- Add `due dates` or reminders
 
-- Filter tasks (All, Active, Completed)
+- `Filter tasks` (All, Active, Completed)
