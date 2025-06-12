@@ -1,6 +1,6 @@
 # 🚀 `React Projects Collection`
 
-This repository showcases `**10 beginner to intermediate-level projects**` built using **React.js** and **CSS**. These projects are designed to strengthen core concepts in React such as components, state management, props, conditional rendering, events, and API integration — along with styling using plain CSS.
+This repository showcases **`10 beginner to intermediate-level projects`** built using **React.js** and **CSS**. These projects are designed to strengthen core concepts in React such as components, state management, props, conditional rendering, events, and API integration — along with styling using plain CSS.
 
 ---
 
