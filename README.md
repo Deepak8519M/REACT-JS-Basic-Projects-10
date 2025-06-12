@@ -1,6 +1,6 @@
 # 🚀 `React Projects Collection`
 
-This repository showcases **`10 beginner to intermediate-level projects`** built using **React.js** and **CSS**. These projects are designed to strengthen core concepts in React such as components, state management, props, conditional rendering, events, and API integration — along with styling using plain CSS.
+This repository showcases **`10 beginner to intermediate-level projects`** built using **`React.js`** and **`CSS`**. These projects are designed to strengthen `core concepts` in React such as components, state management, props, conditional rendering, events, and API integration — along with styling using plain CSS.
 
 ---
 
@@ -10,7 +10,7 @@ This repository showcases **`10 beginner to intermediate-level projects`** built
    A simple app to increment, decrement, and reset a counter. Demonstrates `useState` and basic event handling.
 
 2. ### 📃 `To-Do App`
-   A minimal To-Do list application where users can add and delete tasks. Introduces conditional rendering, form handling, and dynamic list rendering.
+   A minimal To-Do list application where users can add and delete tasks. Introduces `conditional rendering`, `form handling`, and `dynamic list rendering`.
 
 3. ### 🧮 `Calculator App`
    A functional calculator built with React and styled using CSS. Features dynamic input, expression evaluation, and a clear display.
