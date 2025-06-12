@@ -40,10 +40,10 @@ This repository showcases **`10 beginner to intermediate-level projects`** built
 
 ## 🔧 `Tech Stack`
 
-- **Frontend:** React.js (Functional Components, Hooks)
+- **Frontend:** React.js `(Functional Components, Hooks)`
 - **Styling:** Plain CSS
 - **Data Fetching:** `axios`, `fetch` API
-- **Other Concepts:** Conditional Rendering, Array Mapping, Event Handling, Forms, Basic Validation
+- **Other Concepts:** `Conditional Rendering, Array Mapping, Event Handling, Forms, Basic Validation`
 
 ---
 
