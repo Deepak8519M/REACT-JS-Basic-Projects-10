@@ -16,7 +16,7 @@ This repository showcases **10 beginner to intermediate-level projects** built u
    A functional calculator built with React and styled using CSS. Features dynamic input, expression evaluation, and a clear display.
 
 4. ### 🍽️ `Meal API Project`
-   Fetches and displays meals using [TheMealDB API](https://www.themealdb.com/api.php). Focuses on using `useEffect` and `axios` for data fetching and mapping dynamic API responses.
+   Fetches and displays meals using [TheMealDB API]`(https://www.themealdb.com/api.php)`. Focuses on using `useEffect` and `axios` for data fetching and mapping `dynamic API responses`.
 
 5. ### 🎨 `Color Toggler`
    Toggle background and text colors using a button. Emphasizes `useState` and inline styling with conditional logic.
