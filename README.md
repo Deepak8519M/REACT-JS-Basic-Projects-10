@@ -25,10 +25,10 @@ This repository showcases **`10 beginner to intermediate-level projects`** built
    Search through a list of items or icons. Teaches controlled components and real-time filtering using user input.
 
 7. ### 💬 `Testimonials Slider`
-   Displays multiple user testimonials with next/previous buttons. Covers component looping, image display, and small animations with CSS.
+   Displays multiple user testimonials with next/previous buttons. Covers   `component looping`, `image display`, and `small animations` with CSS.
 
 8. ### 📂 `Accordion Component`
-   A collapsible accordion with dynamic data. Helps understand conditional rendering and managing open/closed states.
+   A `collapsible accordion` with dynamic data. Helps understand conditional rendering and managing open/closed states.
 
 9. ### 📝 `Form Validation`
    A registration form with client-side validation. Demonstrates input handling, error states, and conditional form submission.
