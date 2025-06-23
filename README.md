@@ -31,7 +31,7 @@ This repository showcases **`10 beginner to intermediate-level projects`** built
    A `collapsible accordion` with dynamic data. Helps understand conditional rendering and managing open/closed states.
 
 9. ### 📝 `Form Validation`
-   A registration form with client-side validation. Demonstrates input handling, error states, and conditional form submission.
+   A registration form with client-side validation. Demonstrates `input handling`, `error states`, and `conditional form submission`.
 
 10. ### 🛒 `E-Commerce with Advanced Filters`
    A `slightly advanced project` simulating a product listing page with `filter` options (`price, category, rating)`. Reinforces component structuring, complex state handling, and dynamic filtering.
